@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1621430540 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621434824 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"tipo.h"
+
+1621434205 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\moto.h
+	"tipo.h"
+	"color.h"
+
+1621435430 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621434630 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1621436138 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"fecha.h"
+	"moto.h"
+	"servicio.h"
+
+1621436070 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"servicio.h"
+
+1621428044 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\fecha.h
+
+1621436234 source:c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+	"tipo.h"
+
+1621428820 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\tipo.h
+
+1621430540 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\color.h
+
+1621435430 c:\users\tecnoset\desktop\proyectos\salcedotomaspplab1\servicio.h
+
